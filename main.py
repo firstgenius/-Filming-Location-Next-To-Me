@@ -128,8 +128,6 @@ def color_creator(distance : int) -> str:
 
 
 if __name__ == "__main__":
-    import pandas as pd
-    import csv
     import folium
     import certifi
     import ssl
